@@ -32,8 +32,8 @@ Este é um pequeno projeto em Python que calcula a **idade exata** de uma pessoa
 
 1. copie o script main.py
 
-2. intale a biblioteca dateutil:
-pip install python-dateutil
+2. intale a biblioteca dateutil: pip install python-dateutil
 
-3.execute o script de main.py
+3. execute o script de main.py
+
 
